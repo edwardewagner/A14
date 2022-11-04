@@ -1,0 +1,15 @@
+.formItem {
+  flex: auto;
+  justify-content: space-around;
+}
+
+.formEntries {
+  display: flex;
+  flex-direction: column;
+}
+
+.formSubmit {
+  display: flex;
+  justify-content: flex-end;
+  margin: 16px;
+}
